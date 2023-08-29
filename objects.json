@@ -1,0 +1,22 @@
+[
+  {
+    "tech":"MongoDB",
+    "cite":"https://www.mongodb.com/",
+    "quote":"For the next generation of intelligent applications."
+  },
+  {
+    "tech":"ExpressJS",
+    "cite":"https://expressjs.com/",
+    "quote":"Fast, unopinionated, minimalist web framework for Node.js"
+  },
+  {
+    "tech":"React",
+    "cite":"https://react.dev/",
+    "quote":"The library for web and native user interfaces"
+  },
+  {
+    "tech":"Node",
+    "cite":"https://nodejs.dev/en/",
+    "quote":"Run JavaScript Everywhere."
+  }
+]
